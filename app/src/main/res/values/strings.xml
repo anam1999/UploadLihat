@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Uploadlihat</string>
+
+    <string name="title_notebook">Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra)</string>
+    <string name="spec_notebook">13.3 Inch, 256 GB</string>
+    <string name="rate_notebook">4.7</string>
+    <string name="price_notebook">INR 56990</string>
+    <string name="tambah_laptop">Tambah Laptop</string>
+    <string name="title">Title</string>
+    <string name="tipe_laptop">Tipe Laptop</string>
+    <string name="spesifikasi">Spesifikasi</string>
+    <string name="rating">Rating</string>
+    <string name="price">Harga</string>
+    <string name="image">Image</string>
+    <string name="simpan">Simpan</string>
+    <string name="tambah">Tambah</string>
+</resources>
